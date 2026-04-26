@@ -11,3 +11,9 @@ cd winlocker-visual
 python starcurity.py
 HOW UNLOCK?
 pasword "zyv corporation"
+install for windows
+# Установи Git с https://git-scm.com/
+git clone https://github.com/egorkaaz04-a11y/winlocker-visual.git
+cd winlocker-visual
+pip install -r requirements.txt
+python starcurity.py
